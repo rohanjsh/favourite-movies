@@ -20,8 +20,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.green,
       ),
-      home: SignInPage(),
-      // home: _auth.currentUser == null ? SignInPage() : MovieList(),
+      // home: SignInPage(),
+      home: _auth.currentUser == null ? SignInPage() : MovieList(),
     );
   }
 }
