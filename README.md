@@ -1,5 +1,4 @@
-# zupay
-
+# Favourite Movies
 A new Flutter project.
 
 ## Getting Started
