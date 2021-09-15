@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1068969894672",
+    "project_id": "zupay-c533d",
+    "storage_bucket": "zupay-c533d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068969894672:android:441c9d44c12b93a62c7b95",
+        "android_client_info": {
+          "package_name": "com.example.zupay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068969894672-0lv6u03kc6agg3pmgck9a0die38rak7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zupay",
+            "certificate_hash": "23e2ee2b423a9b8672c420e007354afad1301e0e"
+          }
+        },
+        {
+          "client_id": "1068969894672-7iiirierc309vgg14jc5bse1sej4soql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLvSOh5jwSl1JMVD78F3HKHBKUnIwrkzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068969894672-7iiirierc309vgg14jc5bse1sej4soql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
